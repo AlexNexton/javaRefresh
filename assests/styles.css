@@ -147,7 +147,7 @@ body{
 }
 
 .btn--green {
-    border: green;
+    border-color: green;
     color: green;
 }
 
