@@ -34,6 +34,13 @@ body{
 
 }
 
+.question-area{
+    width: 50%;
+    font-size: 2rem;
+    margin: auto;
+    padding: 50px 0;
+}
+
 .question-area span {
     padding: 0 15px;
 }
@@ -70,6 +77,11 @@ body{
     width: 80px;
     font-size: 1.2rem;
 
+}
+
+.answer-message{
+    display: none;
+    font-size: 1rem;
 }
 
 .scores {
