@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function(){
             if(this.getAttribute("data-type") === "submit") {
                 alert("You clicked Submit!")
             } else {
-                let gameType = this.getAttribute("date-type");
+                let gameType = this.getAttribute("data-type");
                 alert(`you clicked ${gameType}`);
             }
         })
